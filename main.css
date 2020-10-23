@@ -1,0 +1,179 @@
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+
+
+html {
+  font-family: "Montserrat", sans-serif;
+}
+
+.block-black{
+	background-color: #000;
+	height: 900px;
+	width: 1440px;
+}
+
+.block-white{
+	background-color: #fff;
+	height: 900px;
+	width: 1440px;
+	
+}
+
+#ovals{
+	display: block;
+	margin: 0 auto;
+}
+
+#main-page-logo{
+	position: absolute;
+	left: 532px;
+	top: 308px;
+}
+
+#main-page-text{
+	position: absolute;
+	left: 700px;
+	top: 407px;
+	font-weight: 400;
+	font-size: 48px;
+	color: #fff;
+}	
+
+#authors-text{
+	display: block;
+	position: relative;
+	top: -550px;
+	left: 150px;
+	width: fit-content;
+	font-weight: 300;
+	font-size: 36px;
+	line-height: 44px;
+	color: #000;
+}
+
+#authors-page{
+	position: relative;
+}
+
+#authors-title{
+	display: block;
+	margin: auto;
+	position: relative;
+	top: -680px;
+	left: 420px;
+	width: fit-content;
+	font-weight: 600;
+	font-size: 64px;
+}
+
+#font-styles-pic{
+	margin: 350px;
+}
+
+#18-styles-text{
+	display: block;
+	font-style: italic;
+	font-weight: 300;
+	font-size: 48px;
+	color: #fff;
+}
+
+#examples{
+	padding-left: 50px;
+}
+
+#examples-page{
+	margin: auto;
+	height: 1375px;
+	width: 1440px;
+}
+
+#separator-top{
+	margin-top: -1px;
+	margin-bottom: 130px;
+}
+
+#separator-bottom{
+	margin-top: 120px;
+}
+
+#supported-languages-title{
+	display: block;
+	position: relative;
+	width: 365px;
+	font-weight: 600;
+	font-size: 36px;
+	color: #fff;
+	margin: auto;
+	padding-top: 430px;
+	padding-right: 950px;
+}
+#supported-languages-text{
+	display: block;
+	position: relative;
+	width: 875px;
+	top: -110px;
+	left: 500px;
+	font-style: normal;
+	font-weight: normal;
+	font-size: 24px;
+	color: #FFFFFF;
+}
+
+#supported-languages-background{
+	width: 1440px;
+	height: 900px;
+
+}
+
+#poem{
+	height: 400px;
+	width: 1440px;
+}
+
+#poem-text{
+	display: block;
+	width: fit-content;
+	margin-left: 500px;
+	margin-top: 250px;
+	font-style: italic;
+    font-weight: 500;
+    font-size: 24px;
+	text-align: center;
+}
+
+#last-text{
+	width: 674px;
+	height: 151px;
+	font-weight: 500;
+	font-size: 20px;
+	line-height: 24px;
+	color: #FFFFFF;
+	padding-top: 50px;
+	margin-left: 100px;
+
+}
+
+#last{
+	width: 1440px;
+	height: 150px;
+	background-color: black;
+}
